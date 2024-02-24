@@ -12,6 +12,7 @@ The Data Science Toolkit is organized into several folders, each focusing on a s
 - **supervised_learning**: Implementation of supervised learning models.
 - **unsupervised_learning**: Code snippets for unsupervised learning techniques.
 - **deep_learning**: Code for deep learning models, specifically tailored for audio and image data.
+- **natural_language_processing:** Techniques and code specifically tailored for processing and analyzing text data.
 
 Explore the folders based on your specific needs, and leverage the well-documented code to enhance your data science projects.
 
